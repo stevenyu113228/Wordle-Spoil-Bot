@@ -1,0 +1,1 @@
+sudo docker run -e TZ=Pacific/Wallis wordle_spoil_bot python3 /app/main.py
